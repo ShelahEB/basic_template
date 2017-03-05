@@ -94,31 +94,37 @@ ul {
 
 header {
     border: solid 1px gray;
+    margin:10px;
     /*delete later*/
 }
 
 #main_nav {
     border: solid 1px red;
+    margin:10px;
     /*delete later*/
 }
 
 #middle {
     border: solid 1px orange;
+    margin:10px;
     /*delete later*/
 }
 
 #content {
     border: solid 1px gray;
+    margin:10px;
     /*delete later*/
 }
 
 #cta {
     border: solid 1px red;
+    margin:10px;
     /*delete later*/
 }
 
 .cta {
     border: solid 2px black;
+    margin:10px;
     /*delete later*/
 }
 
