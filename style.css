@@ -1,0 +1,21 @@
+/*----------------
+Theme: Name
+Author: Shelah Blando
+Date: mm/yy
+For:Class
+-----------------*/
+
+/*-----------------Comment Here-----------------*/
+
+
+Universal Reset 
+
+*{
+	margin:0px;
+	padding:0px;
+	}
+
+body {
+Font-size: 100%; /*16 px */
+	font-family: Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
