@@ -15,7 +15,36 @@ Universal Reset
 	padding:0px;
 	}
 
+
+
 body {
     font-size: 100%; /*16 px */
 	font-family: Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	}
+#page-wrapper {
+    border: solid 1 px gray; /*delete later*/
+}
+
+header {
+    border: solid 1 px gray; /*delete later*/
+}
+
+#main_nav {
+    border: solid 1 px red; /*delete later*/
+}
+
+#middle {
+    border: solid 1 px orange; /*delete later*/
+}
+
+#content {
+    border: solid 1 px gray; /*delete later*/
+}
+
+#cta {
+    border: solid 1 px red; /*delete later*/
+}
+
+.cta {
+    border: solid 2 px black; /*delete later*/
+}
