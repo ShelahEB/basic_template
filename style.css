@@ -88,37 +88,37 @@ ul {
 }
 
 #page-wrapper {
-    border: solid 1 px gray;
+    border: solid 1px gray;
     /*delete later*/
 }
 
 header {
-    border: solid 1 px gray;
+    border: solid 1px gray;
     /*delete later*/
 }
 
 #main_nav {
-    border: solid 1 px red;
+    border: solid 1px red;
     /*delete later*/
 }
 
 #middle {
-    border: solid 1 px orange;
+    border: solid 1px orange;
     /*delete later*/
 }
 
 #content {
-    border: solid 1 px gray;
+    border: solid 1px gray;
     /*delete later*/
 }
 
 #cta {
-    border: solid 1 px red;
+    border: solid 1px red;
     /*delete later*/
 }
 
 .cta {
-    border: solid 2 px black;
+    border: solid 2px black;
     /*delete later*/
 }
 
@@ -132,7 +132,6 @@ header {
     border: 0px;
     margin: 0px;
     padding: 0px;
-    font: 67.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: bold;
 }
