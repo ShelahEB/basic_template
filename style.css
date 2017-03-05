@@ -5,7 +5,13 @@ Date: mm/yy
 For:Class
 -----------------*/
 
-/*-----------------Comment Here-----------------*/
+
+
+
+
+/*-----------------
+Comment Here
+-----------------*/
 
 
 Universal Reset 
@@ -16,11 +22,62 @@ Universal Reset
 	}
 
 
+/*---------------------------
+-Responsive Reset Typhography
+----------------------------*/
 
 body {
-    font-size: 100%; /*16 px */
-	font-family: Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:100%; /*sets default at 16px*/
+	color:gray;
+    font-family: Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	}
+h1 {
+	font-size: 2.25em; /* 36px */
+	line-height: 100%; /* 36px */
+	font-family:Century Gothic,"Palatino","Century Gothic",   "Palatino Linotype",  serif;
+	color:#24ADEA; /*blue*/
+	letter-spacing:2px;
+
+	}
+h2 {
+	font-size: 1.5em; /* 24px */
+	line-height: 100%; /* 24px */
+	}
+h3 {
+	font-size: 1.125em; /* 18px */
+	line-height: 100%; /* 18px */
+	}
+
+h4 {
+	font-size: .6em; /* 18px */
+	line-height: 100%; /* 18px */
+	}
+
+p {
+	font-size: 1em;  /* 16px */
+	line-height: 150%; /* 24px */
+	}
+ol, ul {
+	font-size: 1em;  /* 16px */
+	line-height: 150%; /* 24px */
+	}
+
+img {
+	max-width:100%;
+	height:auto;
+	}
+
+	ol, ul {
+	font-size:16px;
+	line-height:24px;
+	padding-left:30px;
+	margin-bottom:10px;
+	}
+
+
+
+
+
 #page-wrapper {
     border: solid 1 px gray; /*delete later*/
 }
